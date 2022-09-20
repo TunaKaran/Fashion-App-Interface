@@ -1,16 +1,9 @@
 # flutter_moda_app
 
-A new Flutter project.
+A copy of another fashion application's interface. 
 
-## Getting Started
+Features such as like, comment, share not functional
 
-This project is a starting point for a Flutter application.
+![Screenshot_1663694822](https://user-images.githubusercontent.com/112648606/191325877-76ff3652-34de-4819-918b-e6cee32cb2e8.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1663694871](https://user-images.githubusercontent.com/112648606/191325887-8882c90d-d23b-4780-8128-496c7c79c105.png)
